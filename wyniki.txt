@@ -1,5 +1,5 @@
 === Nowa rozgrywka ===
-andrii: T♦ J♣ A♦ 3♠ 5♥
+Andrii: T♦ J♣ A♦ 3♠ 5♥
 Bot_1: 2♠ 2♥ 6♥ 2♣ K♥
 Bot_2: T♠ 9♣ 3♥ 9♥ J♦
 Bot_3: 9♦ 2♦ 5♠ J♥ 5♣
